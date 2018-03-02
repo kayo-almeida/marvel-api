@@ -1,0 +1,3 @@
+= Marvel API
+
+Aplicação que, em background, copia os dados da API original da Marvel Comics e disponibiliza os dados do seu próprio banco da mesma forma.
