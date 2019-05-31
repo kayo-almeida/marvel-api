@@ -1,4 +1,4 @@
-threads_count = ENV.fetch("RAILS_MAX_THREADS") { 5 }
+threads_count = ENV.fetch("RAILS_MAX_THREADS") { 2 }
 
 threads threads_count, threads_count
 
