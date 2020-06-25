@@ -116,7 +116,7 @@ GEM
       mini_portile2 (~> 2.3.0)
     pg (1.0.0)
     puma (3.11.2)
-    rack (2.0.4)
+    rack (2.2.3)
     rack-attack (5.0.1)
       rack
     rack-cors (1.0.2)
